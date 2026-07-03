@@ -1,0 +1,10 @@
+{
+  "id": 144211686,
+  "created_at": "2026-07-03T15:41:47.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["heidihelena.r-universe.dev"]
+}
