@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/heidihelena/heidihelena.r-universe.dev
 	branch = HEAD
+[submodule "recoverlite"]
+	path = recoverlite
+	url = https://github.com/heidihelena/recoverlite
 [submodule "vahtian"]
 	path = vahtian
 	url = https://github.com/heidihelena/vahtian
