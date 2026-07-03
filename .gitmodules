@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/heidihelena/heidihelena.r-universe.dev
 	branch = HEAD
+[submodule "vahtian"]
+	path = vahtian
+	url = https://github.com/heidihelena/vahtian
+	subdir = packages/vahtian-r
+[submodule "vahtian.epinet"]
+	path = vahtian.epinet
+	url = https://github.com/heidihelena/epinet
+	subdir = r/vahtian.epinet
