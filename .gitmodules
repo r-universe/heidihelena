@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/heidihelena/heidihelena.r-universe.dev
 	branch = HEAD
+[submodule "forskai"]
+	path = forskai
+	url = https://github.com/heidihelena/forskai-r
 [submodule "recoverlite"]
 	path = recoverlite
 	url = https://github.com/heidihelena/recoverlite
