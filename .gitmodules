@@ -5,6 +5,10 @@
 [submodule "forskai"]
 	path = forskai
 	url = https://github.com/heidihelena/forskai-r
+[submodule "qualivahti"]
+	path = qualivahti
+	url = https://github.com/heidihelena/qualivahti-scripts
+	subdir = rpkg
 [submodule "recoverlite"]
 	path = recoverlite
 	url = https://github.com/heidihelena/recoverlite
