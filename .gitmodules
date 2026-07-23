@@ -8,6 +8,10 @@
 [submodule "forskai"]
 	path = forskai
 	url = https://github.com/heidihelena/forskai-r
+[submodule "palettecore"]
+	path = palettecore
+	url = https://github.com/heidihelena/palettecore
+	subdir = r/palettecore
 [submodule "qualivahti"]
 	path = qualivahti
 	url = https://github.com/heidihelena/qualivahti-scripts
